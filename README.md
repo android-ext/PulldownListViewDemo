@@ -1,2 +1,4 @@
-# PulldownListViewDemo
-# PulldownListViewDemo
+一个可以下拉和上拉的ListView
+下拉时顶部会出现一个转动的动画布局
+上拉时底部会出现一个类似跑到的动画布局
+
