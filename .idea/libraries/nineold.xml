@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="nineold">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/nineold.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
